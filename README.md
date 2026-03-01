@@ -1,8 +1,8 @@
 Hi, I'm Deeksha.
 
-ECE student, studying in Ramaiah Institute of Technology, Bengaluru. 
-Interested in RF systems, antennas, embedded design, and digital electronics.
-I enjoy building practical engineering systems and strengthening core concepts.
+ECE student, studying in Ramaiah Institute of Technology, Bengaluru.<br>
+Interested in RF systems, antennas, embedded design, and digital electronics.<br>
+I enjoy building practical engineering systems and strengthening core concepts.<br>
 
 --------------------------------
 
@@ -59,9 +59,9 @@ Embedded Systems
 
 **CONNECT**
 
-LinkedIn: www.linkedin.com/in/deeksha-pandey-dp019
+LinkedIn: www.linkedin.com/in/deeksha-pandey-dp019<br>
 Email: deek019sha@gmail.com  
 
----
+----------------------------------
 
 Open to internships, research opportunities, and collaborations.
