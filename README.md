@@ -28,7 +28,7 @@ I enjoy building practical engineering systems and strengthening core concepts.<
 
 RF & Simulation: CST Studio Suite, HFSS  
 Embedded: Arduino, PWM, sensors, serial communication  
-Digital Design: Verilog,Vivado, EDA playground. 
+Digital Design: Verilog,Vivado, EDA playground.<br>
 Other: Latex, Excel.
 
 ----------------------------------
