@@ -26,10 +26,10 @@ I enjoy building practical engineering systems and strengthening core concepts.<
 
 **TOOLS & TECHNOLOGIES**
 
-RF & Simulation: CST Studio Suite, MATLAB  
+RF & Simulation: CST Studio Suite, HFSS  
 Embedded: Arduino, PWM, sensors, serial communication  
-Digital Design: Verilog, FSM design, Vivado  
-Other: Proteus, Git, LaTeX  
+Digital Design: Verilog,Vivado, EDA playground. 
+Other: Latex, Excel.
 
 ----------------------------------
 
