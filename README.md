@@ -14,8 +14,8 @@ and strengthening my fundamentals by turning concepts into working systems.
 
 <br>
 
-<a href="https://www.linkedin.com/in/deeksha-pandey-dp019">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-black?style=for-the-badge&logo=linkedin" />
+<a href="https://deeksha.ashwithrai.me">
+<img src="https://img.shields.io/badge/Profile-Portfolio-E83E8C?style=for-the-badge" />
 </a>
 &nbsp;
 <a href="mailto:deek019sha@gmail.com">
