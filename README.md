@@ -59,8 +59,8 @@ and strengthening my fundamentals by turning concepts into working systems.
 ### CPW-Fed Antenna — 3.5 GHz
 Designed and analyzed a CPW-fed antenna operating around **3.5 GHz**. Studied impedance matching, S-parameters, gain, and radiation characteristics using electromagnetic simulation.
 
-### 2×1 MIMO Antenna
-Designed a **2×1 MIMO antenna system** and investigated mutual coupling and isolation between antenna elements. Evaluated S-parameters, radiation characteristics, and antenna efficiency.
+### 1X2 MIMO Antenna
+Designed a **1X2 MIMO antenna system** and investigated mutual coupling and isolation between antenna elements. Evaluated S-parameters, radiation characteristics, and antenna efficiency.
 
 ### Microstrip Patch Antenna
 Designed and analyzed a microstrip patch antenna with a focus on **surface current distribution, radiation pattern, directivity, and impedance matching**.
