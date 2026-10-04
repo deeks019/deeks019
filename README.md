@@ -1,151 +1,123 @@
 <div align="center">
 
-# DEEKSHA PANDEY
+# Hi, I'm Deeksha
 
-### Electronics & Communication Engineering | RF & Antennas | Embedded Systems | Digital Design
+### Electronics & Communication Engineering Student
 
-**B.Tech ECE — Ramaiah Institute of Technology, Bengaluru**
+**Ramaiah Institute of Technology, Bengaluru**
+
+I’m an ECE student passionate about building and understanding real-world engineering systems.  
+My work spans **RF & antenna design, embedded systems, digital design, and wireless communication**.
+
+I enjoy working on practical projects, experimenting with hardware and simulation tools,  
+and strengthening my fundamentals by turning concepts into working systems.
 
 <br>
 
-<a href="https://www.linkedin.com/in/deeksha-pandey-dp019">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:deek019sha@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/deeksha-pandey-dp019">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-black?style=for-the-badge&logo=linkedin" />
+</a>
+&nbsp;
+<a href="mailto:deek019sha@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail" />
+</a>
 
 </div>
 
 ---
 
-## ABOUT
+## About Me
 
-I am an Electronics & Communication Engineering student interested in **RF systems, antenna design, embedded systems, and digital electronics**.
-
-My work focuses on building practical engineering systems while developing strong fundamentals in communication systems, microwave engineering, embedded design, and digital logic.
-
----
-
-## AREAS OF INTEREST
-
-| RF & Wireless | Embedded | Digital Design | Signal Processing |
-|---|---|---|---|
-| Antenna Design | Arduino | Verilog | Signal Analysis |
-| MIMO Systems | Sensors | RTL Design | Communication Systems |
-| RF Systems | PWM | UART | Digital Systems |
-| Wireless Communication | Serial Communication | FSM Design | — |
+- B.Tech student in **Electronics & Communication Engineering**
+- Working on projects involving **RF, antennas, embedded systems, and digital electronics**
+- Interested in **wireless systems, RTL design, communication protocols, and hardware development**
+- Comfortable working with both **simulation and hardware-based implementations**
+- Currently strengthening my core ECE concepts through projects and technical learning
 
 ---
 
-## TOOLS & TECHNOLOGIES
+## Technical Skills
 
-### RF & Simulation
+**RF & Antenna Design**  
 `CST Studio Suite` `Ansys HFSS`
 
-### Embedded Systems
-`Arduino` `PWM` `Sensors` `Serial Communication`
-
-### Digital Design
+**Digital Design**  
 `Verilog` `Vivado` `EDA Playground`
 
-### Other
-`LaTeX` `Excel`
+**Embedded Systems**  
+`Arduino` `PWM` `Sensors` `Serial Communication`
+
+**Programming & Tools**  
+`C` `C++` `Python` `LaTeX` `Excel`
 
 ---
 
-## FEATURED PROJECTS
+# Projects
 
-### RF & ANTENNA DESIGN
+## RF & Antenna Design
 
-**CPW-Fed Antenna — 3.5 GHz**
+### CPW-Fed Antenna — 3.5 GHz
+Designed and analyzed a CPW-fed antenna operating around **3.5 GHz**. Studied impedance matching, S-parameters, gain, and radiation characteristics using electromagnetic simulation.
 
-Designed and analyzed a CPW-fed antenna operating around 3.5 GHz, with focus on impedance matching, gain, radiation pattern, and overall antenna performance.
+### 2×1 MIMO Antenna
+Designed a **2×1 MIMO antenna system** and investigated mutual coupling and isolation between antenna elements. Evaluated S-parameters, radiation characteristics, and antenna efficiency.
 
-**2×1 MIMO Antenna**
-
-Designed a 2×1 MIMO antenna and investigated mutual coupling, S-parameters, isolation, and radiation characteristics.
-
-**Microstrip Patch Antenna**
-
-Designed and analyzed a microstrip patch antenna with emphasis on surface current distribution, radiation pattern, directivity, and impedance characteristics.
+### Microstrip Patch Antenna
+Designed and analyzed a microstrip patch antenna with a focus on **surface current distribution, radiation pattern, directivity, and impedance matching**.
 
 ---
 
-### DIGITAL DESIGN
+## Digital Design
 
-**UART Protocol — Verilog**
+### UART Protocol — Verilog
+Designed and verified a UART transmitter and receiver using **Verilog HDL**.
 
-Designed and verified a UART transmitter and receiver using Verilog.
-
-Key features include:
+Implemented features including:
 
 - Configurable baud rate
 - Configurable data length
 - Parity selection
 - Configurable stop bits
-- TX/RX FIFO buffering
+- TX and RX FIFOs
 - Loopback operation
 - Parity and framing error detection
-- Testbench-based functional verification
+- Testbench-based verification
 
-**Round Robin Arbiter — Verilog**
-
-Designed an FSM-based Round Robin Arbiter for fair and deterministic resource allocation, followed by timing, power, and area analysis.
-
----
-
-### EMBEDDED SYSTEMS
-
-**Arduino Radar System**
-
-Developed an ultrasonic sensor-based radar system for real-time object detection using Arduino.
-
-**PWM Music Buzzer**
-
-Implemented tone generation using PWM and developed an Arduino-based system for generating different audio tones.
+### Round Robin Arbiter — Verilog
+Designed an **FSM-based Round Robin Arbiter** for fair resource allocation and analyzed its **timing, power, and area** characteristics.
 
 ---
 
-## CURRENTLY WORKING ON
+## Embedded Systems
 
-**RF & Antennas**
+### Arduino Radar System
+Built an ultrasonic sensor-based radar system using **Arduino** for real-time object detection and distance measurement.
+
+### PWM Music Buzzer
+Implemented **PWM-based tone generation** using Arduino to generate different audio frequencies and musical tones.
+
+---
+
+## Currently Working On
+
 - Improving MIMO antenna isolation techniques
-- Exploring RF and wireless system design
-
-**Digital Design**
-- Developing and verifying Verilog-based systems
-- Working on communication protocols and RTL design
-
-**Embedded Systems**
-- Building practical sensor-based systems
-- Exploring real-time embedded applications
-
-**Core ECE**
-- Strengthening fundamentals in electronics, communication, and digital systems
+- Developing practical embedded systems
+- Exploring RTL and digital system design using Verilog
+- Working with communication protocols
+- Strengthening core Electronics & Communication Engineering concepts
 
 ---
-
-## EDUCATION
-
-**B.Tech — Electronics & Communication Engineering**  
-Ramaiah Institute of Technology, Bengaluru
-
----
-
-## CONNECT
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/deeksha-pandey-dp019">
-LinkedIn
-</a>
+### Let's Connect
 
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:deek019sha@gmail.com">
-Email
-</a>
+<a href="https://www.linkedin.com/in/deeksha-pandey-dp019">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:deek019sha@gmail.com">deek019sha@gmail.com</a>
 
 <br><br>
 
-Open to internships, research opportunities, and engineering collaborations.
+**Open to internships, research opportunities, and engineering collaborations.**
 
 </div>
