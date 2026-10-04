@@ -13,13 +13,10 @@ I enjoy working on practical projects, experimenting with hardware and simulatio
 and strengthening my fundamentals by turning concepts into working systems.
 
 <br>
-
 <a href="https://deeksha.ashwithrai.me">
-<img src="https://img.shields.io/badge/Profile-Portfolio-E83E8C?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="mailto:deek019sha@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Portfolio-E83E8C?style=for-the-badge" />
+</a><a href="mailto:deek019sha@gmail.com">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>
