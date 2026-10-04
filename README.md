@@ -1,67 +1,151 @@
-Hi, I'm Deeksha.
+<div align="center">
 
-ECE student, studying in Ramaiah Institute of Technology, Bengaluru.<br>
-Interested in RF systems, antennas, embedded design, and digital electronics.<br>
-I enjoy building practical engineering systems and strengthening core concepts.<br>
+# DEEKSHA PANDEY
 
---------------------------------
+### Electronics & Communication Engineering | RF & Antennas | Embedded Systems | Digital Design
 
-**ABOUT ME**
+**B.Tech ECE — Ramaiah Institute of Technology, Bengaluru**
 
-• B.Tech in Electronics & Communication Engineering  
-• Interested in RF, antennas, and wireless systems  
-• Passionate about embedded and real-time systems  
-• Preparing for GATE (ECE) to strengthen fundamentals  
+<br>
 
----------------------------------
+<a href="https://www.linkedin.com/in/deeksha-pandey-dp019">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:deek019sha@gmail.com">Email</a>
 
-**DOMAINS**
+</div>
 
-• RF & Antenna Design  
-• Embedded Systems  
-• Digital Design (Verilog)  
-• Signal Processing  
+---
 
-----------------------------------
+## ABOUT
 
-**TOOLS & TECHNOLOGIES**
+I am an Electronics & Communication Engineering student interested in **RF systems, antenna design, embedded systems, and digital electronics**.
 
-RF & Simulation: CST Studio Suite, HFSS  
-Embedded: Arduino, PWM, sensors, serial communication  
-Digital Design: Verilog,Vivado, EDA playground.<br>
-Other: Latex, Excel.
+My work focuses on building practical engineering systems while developing strong fundamentals in communication systems, microwave engineering, embedded design, and digital logic.
 
-----------------------------------
+---
 
-**FEATURED PROJECTS**
+## AREAS OF INTEREST
 
-RF & Antenna Design  
-• CPW-fed antenna for 3.5 GHz — analyzed gain, radiation pattern, and impedance matching  
-• 2×1 MIMO antenna — improved isolation and evaluated S-parameters and efficiency  
-• Microstrip patch antenna — studied surface current distribution and directivity  
+| RF & Wireless | Embedded | Digital Design | Signal Processing |
+|---|---|---|---|
+| Antenna Design | Arduino | Verilog | Signal Analysis |
+| MIMO Systems | Sensors | RTL Design | Communication Systems |
+| RF Systems | PWM | UART | Digital Systems |
+| Wireless Communication | Serial Communication | FSM Design | — |
 
-Digital Design  
-• Round Robin Arbiter (Verilog) — FSM-based arbiter with timing, power, and area analysis  
+---
 
-Embedded Systems  
-• Arduino radar system — ultrasonic sensor-based object detection  
-• PWM music buzzer — tone generation using PWM modulation  
+## TOOLS & TECHNOLOGIES
 
-----------------------------------
+### RF & Simulation
+`CST Studio Suite` `Ansys HFSS`
 
-**CURRENTLY WORKING ON**
+### Embedded Systems
+`Arduino` `PWM` `Sensors` `Serial Communication`
 
-• Improving MIMO antenna isolation techniques  
-• Building integrated embedded systems  
-• Strengthening core ECE concepts for GATE  
+### Digital Design
+`Verilog` `Vivado` `EDA Playground`
 
-----------------------------------
+### Other
+`LaTeX` `Excel`
 
-**CONNECT**
+---
 
-LinkedIn: www.linkedin.com/in/deeksha-pandey-dp019<br>
-Email: deek019sha@gmail.com  
+## FEATURED PROJECTS
 
-----------------------------------
+### RF & ANTENNA DESIGN
 
-Open to internships, research opportunities, and collaborations.
+**CPW-Fed Antenna — 3.5 GHz**
+
+Designed and analyzed a CPW-fed antenna operating around 3.5 GHz, with focus on impedance matching, gain, radiation pattern, and overall antenna performance.
+
+**2×1 MIMO Antenna**
+
+Designed a 2×1 MIMO antenna and investigated mutual coupling, S-parameters, isolation, and radiation characteristics.
+
+**Microstrip Patch Antenna**
+
+Designed and analyzed a microstrip patch antenna with emphasis on surface current distribution, radiation pattern, directivity, and impedance characteristics.
+
+---
+
+### DIGITAL DESIGN
+
+**UART Protocol — Verilog**
+
+Designed and verified a UART transmitter and receiver using Verilog.
+
+Key features include:
+
+- Configurable baud rate
+- Configurable data length
+- Parity selection
+- Configurable stop bits
+- TX/RX FIFO buffering
+- Loopback operation
+- Parity and framing error detection
+- Testbench-based functional verification
+
+**Round Robin Arbiter — Verilog**
+
+Designed an FSM-based Round Robin Arbiter for fair and deterministic resource allocation, followed by timing, power, and area analysis.
+
+---
+
+### EMBEDDED SYSTEMS
+
+**Arduino Radar System**
+
+Developed an ultrasonic sensor-based radar system for real-time object detection using Arduino.
+
+**PWM Music Buzzer**
+
+Implemented tone generation using PWM and developed an Arduino-based system for generating different audio tones.
+
+---
+
+## CURRENTLY WORKING ON
+
+**RF & Antennas**
+- Improving MIMO antenna isolation techniques
+- Exploring RF and wireless system design
+
+**Digital Design**
+- Developing and verifying Verilog-based systems
+- Working on communication protocols and RTL design
+
+**Embedded Systems**
+- Building practical sensor-based systems
+- Exploring real-time embedded applications
+
+**Core ECE**
+- Strengthening fundamentals in electronics, communication, and digital systems
+
+---
+
+## EDUCATION
+
+**B.Tech — Electronics & Communication Engineering**  
+Ramaiah Institute of Technology, Bengaluru
+
+---
+
+## CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/deeksha-pandey-dp019">
+LinkedIn
+</a>
+
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:deek019sha@gmail.com">
+Email
+</a>
+
+<br><br>
+
+Open to internships, research opportunities, and engineering collaborations.
+
+</div>
