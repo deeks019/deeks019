@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deeksha;ECE+Student;RF+%26+Antenna+Enthusiast;Digital+Design+%7C+Embedded+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=2500&pause=1000&color=E83E8C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Deeksha" />
 
 ### Electronics & Communication Engineering Student
 
