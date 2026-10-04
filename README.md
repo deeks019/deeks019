@@ -7,7 +7,7 @@
 **Ramaiah Institute of Technology, Bengaluru**
 
 I’m an ECE student passionate about building and understanding real-world engineering systems.  
-My work spans **RF & antenna design, embedded systems, digital design, and wireless communication**.
+My work spans **RF & antenna design, embedded systems, and digital design**.
 
 I enjoy working on practical projects, experimenting with hardware and simulation tools,  
 and strengthening my fundamentals by turning concepts into working systems.
